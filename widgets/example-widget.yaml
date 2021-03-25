@@ -1,0 +1,6 @@
+code: example-widget
+titles:
+  en: Example example-widget
+  it: Widget d'esempio
+group: free
+customUi: <H2> Hi from Example Widget </h2>
